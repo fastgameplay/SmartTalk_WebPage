@@ -42,7 +42,7 @@ footer {
     width: 100%;
     text-align: center;
     padding: 10px;
-    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent footer background for readability */
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent footer background for readability */
     color: #fff;
     position: relative;
 }
